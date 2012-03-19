@@ -9,7 +9,7 @@ package trabalhopoo;
  * @author erlon
  */
 public class ReservaTelefone extends Reserva{
-
+//reservapo r telefone
  public ReservaTelefone() {
  }
  
